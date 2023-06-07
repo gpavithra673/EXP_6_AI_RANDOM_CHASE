@@ -94,8 +94,7 @@ playable area
 ## OUTPUT:
 
 ### AI Player Mesh:
-![Screenshot (56)](https://github.com/gpavithra673/EXP_6_AI_RANDOM_CHASE/assets/93427264/7edd8e91-5667-4ccd-8c4b-9cc6ce1f3a95)
-
+![Screenshot (55)](https://github.com/gpavithra673/EXP_6_AI_RANDOM_CHASE/assets/93427264/f5055826-9e74-4404-b5dc-3fa693b42300)
 
 ### AI Backboard for Key Creation:
 ![image](https://github.com/Aashima02/AI-Random-Movement/assets/93427086/dfe0e5f7-2be4-46c3-97ad-8b63d1ab3938)
@@ -107,7 +106,7 @@ playable area
 ![image](https://github.com/Aashima02/AI-Random-Movement/assets/93427086/b890389f-f4a5-4e1b-bf3e-001b4226f67d)
 
 ### Game Nav-Mesh Bound Volume:
-![image](https://github.com/Aashima02/AI-Random-Movement/assets/93427086/d8c5ae12-24e8-46c8-ae52-8d369e05f38d)
+![Screenshot (56)](https://github.com/gpavithra673/EXP_6_AI_RANDOM_CHASE/assets/93427264/7edd8e91-5667-4ccd-8c4b-9cc6ce1f3a95)
 
 ### In Play Mode:
 ![Screenshot (54)](https://github.com/gpavithra673/EXP_6_AI_RANDOM_CHASE/assets/93427264/4e5fb161-1b1c-473f-951d-7cca421b3bc0)
